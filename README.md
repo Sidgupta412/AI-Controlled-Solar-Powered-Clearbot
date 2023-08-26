@@ -1,6 +1,6 @@
 # AI-Controlled-Solar-Powered-Clearbot
 
-# Code for Image Processing and Object Detection using Rasbery PI-4
+# Code for Image Processing and Object Detection using Rasberry PI-4
 
 import cv2 as cv
 import serial
